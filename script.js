@@ -8,6 +8,14 @@ const programs = [
         downloadLink: "https://gofile.io/d/cLE5NL",
         password: null
     },
+    {
+        id: 2,
+        name:"Microsoft Office 365",
+        description: "Microsoft Office 365 คือบริการการสมัครใช้งานรายปีที่รับรองว่าคุณจะได้รับแอปฯและบริการต่างๆ อันมีประสิทธิภาพและทันสมัยที่สุดจาก Microsoft อยู่เสมอ คุณจะได้รับพื้นที่จัดเก็บแบบออนไลน์เพิ่มเติมและได้รับฟีเจอร์เพิ่มเติมอื่นๆที่ไม่มีในรุ่นปกติทั้งใน Desktop และ Mobile Device",
+        image: "https://i0.wp.com/mawtoload.com/wp-content/uploads/2023/09/Office-365-icon.png?resize=256%2C256&ssl=1",
+        downloadLink: "https://gofile.io/d/ZMKizX",
+        password: "mawto"
+    }
     // เพิ่มโปรแกรมอื่นๆ ต่อไปได้ที่นี่
 ];
 
