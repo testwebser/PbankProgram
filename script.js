@@ -15,6 +15,13 @@ const programs = [
         image: "https://i0.wp.com/mawtoload.com/wp-content/uploads/2023/09/Office-365-icon.png?resize=256%2C256&ssl=1",
         downloadLink: "https://gofile.io/d/ZMKizX",
         password: "mawto"
+    },
+    {
+        id: 3,
+        name:"Active Windows 10",
+        description:"แก้ Active Windows ขึ้นขวาล่างจอ",
+        downloadLink:"https://gofile.io/d/8LCgb6",
+        password: null
     }
     // เพิ่มโปรแกรมอื่นๆ ต่อไปได้ที่นี่
 ];
