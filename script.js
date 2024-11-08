@@ -20,6 +20,7 @@ const programs = [
         id: 3,
         name:"Active Windows 10",
         description:"แก้ Active Windows ขึ้นขวาล่างจอ",
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__U-fwv-nJ8_9F4UO8uBMiPQfPfCbN-rAug&s",
         downloadLink:"https://gofile.io/d/8LCgb6",
         password: null
     }
