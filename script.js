@@ -5,15 +5,15 @@ const programs = [
         name: "Internet Download Manager (IDM)",
         description: "โปรแกรมช่วยดาวน์โหลดไฟล์ที่มีประสิทธิภาพสูง เพิ่มความเร็วในการดาวน์โหลดได้มากถึง 5 เท่า สามารถจัดการการดาวน์โหลดได้อย่างมีประสิทธิภาพ รองรับการดาวน์โหลดแบบต่อเนื่องและการดาวน์โหลดตามกำหนดเวลา",
         image: "https://img.utdstc.com/icon/2b6/7d8/2b67d8d47efc520e4f344d41cf59eb0344846f0c93fd5cf2b7d0d4914e22dd2d:200",
-        downloadLink: "https://gofile.io/d/cLE5NL",
-        password: null
+        downloadLink: "https://pixeldrain.com/u/8GJwND6M",
+        password: "mawto"
     },
     {
         id: 2,
         name:"Microsoft Office 365",
         description: "Microsoft Office 365 คือบริการการสมัครใช้งานรายปีที่รับรองว่าคุณจะได้รับแอปฯและบริการต่างๆ อันมีประสิทธิภาพและทันสมัยที่สุดจาก Microsoft อยู่เสมอ คุณจะได้รับพื้นที่จัดเก็บแบบออนไลน์เพิ่มเติมและได้รับฟีเจอร์เพิ่มเติมอื่นๆที่ไม่มีในรุ่นปกติทั้งใน Desktop และ Mobile Device",
         image: "https://i0.wp.com/mawtoload.com/wp-content/uploads/2023/09/Office-365-icon.png?resize=256%2C256&ssl=1",
-        downloadLink: "https://gofile.io/d/ZMKizX",
+        downloadLink: "https://gofile.io/d/GCOks2/",
         password: "mawto"
     },
     {
