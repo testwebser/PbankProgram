@@ -18,10 +18,10 @@ const programs = [
     },
     {
         id: 3,
-        name:"Active Windows 10",
-        description:"แก้ Active Windows ขึ้นขวาล่างจอ",
-        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__U-fwv-nJ8_9F4UO8uBMiPQfPfCbN-rAug&s",
-        downloadLink:"https://gofile.io/d/8LCgb6",
+        name:"Active Universal",
+        description:"สามารถ Activate ได้แบบครอบจักรวาล ตั้งแต่ Windows ไปยัง Office 365",
+        image:"https://camo.githubusercontent.com/c4bf704c89aef3827dcd81b0ab9c90536d842a9ab47336863154ebbfbceb6e7e/68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67",
+        downloadLink:"https://gofile.io/d/BJWxXb",
         password: null
     }
     // เพิ่มโปรแกรมอื่นๆ ต่อไปได้ที่นี่
