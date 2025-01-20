@@ -23,6 +23,14 @@ const programs = [
         image:"https://camo.githubusercontent.com/c4bf704c89aef3827dcd81b0ab9c90536d842a9ab47336863154ebbfbceb6e7e/68747470733a2f2f6d61737367726176652e6465762f696d672f6c6f676f5f736d616c6c2e706e67",
         downloadLink:"https://gofile.io/d/BJWxXb",
         password: null
+    },
+    {
+        id: 4,
+        name:"Lossless Scaling",
+        description:"โปรแกรมช่วยเพิ่มดันเฟรม Upscale เกมเก่าได้อย่างดี",
+        image:"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg?t=1736886665",
+        downloadLink:"https://mega.nz/file/TVYCxJZY#kHsZ7zIyOb_e-y-irS_t0A3tIioBjm-iXrcw98gSWHI",
+        password: null
     }
     // เพิ่มโปรแกรมอื่นๆ ต่อไปได้ที่นี่
 ];
